@@ -7,6 +7,7 @@
 **Product Owner:** Salomón Jesús Balam Chuc
 
 **Scrum Master:** Mariana Aneli Puerto Noh
+
 **Equipo de desarrollo:**
   * Hiram Gael Dzul Bernal
   * Martin Rodrigo Farfan Calderón
