@@ -19,8 +19,8 @@ Establecer la estructura inicial del repositorio oficial en GitHub, configurar l
 **Equipo de desarrollo:**
  * Hiram Gael Dzul Bernal
  * Martin Rodrigo Farfan Calderón
- *Jennifer Karina Lopez Ambrosio
- *Alex Alberto Meza Varguez
+ * Jennifer Karina Lopez Ambrosio
+ * Alex Alberto Meza Varguez
 
 ---
 
