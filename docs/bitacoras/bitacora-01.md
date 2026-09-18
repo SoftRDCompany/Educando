@@ -17,10 +17,10 @@ Establecer la estructura inicial del repositorio oficial en GitHub, configurar l
 **Scrum Master:** Mariana Aneli Puerto Noh
 
 **Equipo de desarrollo:**
-Hiram Gael Dzul Bernal
-Martin Rodrigo Farfan Calderón
-Jennifer Karina Lopez Ambrosio
-Alex Alberto Meza Varguez
+ * Hiram Gael Dzul Bernal
+ * Martin Rodrigo Farfan Calderón
+ *Jennifer Karina Lopez Ambrosio
+ *Alex Alberto Meza Varguez
 
 ---
 
