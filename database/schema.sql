@@ -1,0 +1,1 @@
+--Script inicial de la Base de Datos MySQL.
